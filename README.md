@@ -1,5 +1,5 @@
 # SimCLR-in-TensorFlow-2
-(Minimally) implements SimCLR ([A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) by Chen et al.) in TensorFlow 2. Uses many delicious pieces of `tf.keras` and TensorFlow's core APIs.
+(Minimally) implements SimCLR ([A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) by Chen et al.) in TensorFlow 2. Uses many delicious pieces of `tf.keras` and TensorFlow's core APIs. A report is available [here](https://app.wandb.ai/sayakpaul/simclr/reports/Towards-self-supervised-image-understanding-with-SimCLR--VmlldzoxMDI5NDM).
 
 ## Acknowledgements
 I did not code everything from scratch. This particular research paper felt super amazing to read and often felt natural to understand, that's why I wanted to try it out myself and come up with a minimal implementation. I reused the works of the following for different purposes -
